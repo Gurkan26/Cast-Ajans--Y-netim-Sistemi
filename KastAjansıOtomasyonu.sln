@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KastAjansıOtomasyonu", "KastAjansıOtomasyonu\KastAjansıOtomasyonu.csproj", "{C987E0B8-5F91-43A5-8406-0C5683BEF34D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KurulumDosyası", "KurulumDosyası\KurulumDosyası.vdproj", "{AD31C60B-D53E-4CA0-8384-0D86B030B801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C987E0B8-5F91-43A5-8406-0C5683BEF34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C987E0B8-5F91-43A5-8406-0C5683BEF34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C987E0B8-5F91-43A5-8406-0C5683BEF34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C987E0B8-5F91-43A5-8406-0C5683BEF34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD31C60B-D53E-4CA0-8384-0D86B030B801}.Debug|Any CPU.ActiveCfg = Debug
+		{AD31C60B-D53E-4CA0-8384-0D86B030B801}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C76967-925E-4C5A-BE50-4DFC18C18F59}
+	EndGlobalSection
+EndGlobal
